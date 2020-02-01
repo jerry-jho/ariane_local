@@ -1,4 +1,7 @@
 Ariane Local
 ============
 
-提取 https://pulp-platform.github.io/ariane/ 项目中纯粹的RTL部分
+Extract rtl-only files from https://pulp-platform.github.io/ariane.
+
+This repo will be updated accordingly.
+
